@@ -114,7 +114,8 @@ while True:
                 cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
 
             cv2.putText(frame, text, (x, y - 5), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
-            cv2.putText(frame, 'No. of people unsafe: {}'.format(count), (70, 70), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)            
+            cv2.rectangle(frame, (50, 50), (450, 90), (0, 0, 0), -1)
+            cv2.putText(frame, 'No. of people unsafe: {}'.format(count), (70, 70), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 3)            
 
 
     if writer is None:
