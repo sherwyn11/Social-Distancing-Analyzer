@@ -40,11 +40,11 @@ Output video
 ## Limitations and Future Scope
 
 <ul>
-  <li>This project does not take into account the camera perspective</li>
-  <li>It does not leverage a proper camera calibration (Distances are not measure accurate)</li>
+  <li>This project does not take into account the camera perspective.</li>
+  <li>It does not leverage a proper camera calibration (Distances are not measure accurate).</li>
 </ul>
 
-&nbsp;<b><i>Will work on these limitations</i><b>
+&nbsp;<b><i>Will work on these limitations.</i><b>
 
 ## References
 
@@ -60,7 +60,7 @@ Output video
 [MIT License Link](https://github.com/sherwyn11/Social-Distancing-Analyzer/blob/master/LICENSE)
 
 
-<b><i>PS: This is my first OpenCV project. Will work on more in the future</i><b><br></br>
+<b><i>PS: This is my first OpenCV project. Will work on more in the future.</i><b><br></br>
 <b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
 
 <br>
