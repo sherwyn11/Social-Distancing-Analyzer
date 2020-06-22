@@ -59,7 +59,6 @@ Output video
 
 [MIT License Link](https://github.com/sherwyn11/Social-Distancing-Analyzer/blob/master/LICENSE)
 
-<br></br>
 
 <b><i>PS: This is my first OpenCV project. Will work on more in the future</i><b><br></br>
 <b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
