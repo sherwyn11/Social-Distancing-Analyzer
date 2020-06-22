@@ -2,7 +2,8 @@
 
 ## Overview
 
-Social Distancing Analyzer using OpenCV and Python. 
+<b>Social distancing</b> is deliberately increasing the physical space between people to avoid spreading illness. Staying at least six feet away from other people lessens your chances of catching <b>COVID-19</b>. This project uses OpenCV and YOLO to monitor/analyze whether people are maintaining social distancing or not.
+
 <ul>
   <li>This project uses YOLO for object detection.</li>
   <li>Once the objects(people) are detected it then draws a bounding box around them.</li>
@@ -60,7 +61,8 @@ Output video
 
 <br></br>
 
-<b><i>PS: This is my first OpenCV project. Will work on more in the future</i><b>
+<b><i>PS: This is my first OpenCV project. Will work on more in the future</i><b><br></br>
+<b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
 
 <br>
 &copy; Sherwyn D'souza 2020
