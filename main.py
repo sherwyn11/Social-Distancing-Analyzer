@@ -14,7 +14,7 @@ LABELS = open(YOLOV3_LABELS_PATH).read().strip().split('\n')
 np.random.seed(42)
 COLORS = np.random.randint(0, 255, size=(len(LABELS), 3), dtype='uint8')
 
-print('[INFO] loading YOLO from disk...')
+print('Loading YOLO from disk...')
 
 neural_net = cv2.dnn.readNetFromDarknet(YOLOV3_CFG_PATH, YOLOV3_WEIGHTS_PATH)
 layer_names = neural_net.getLayerNames()
@@ -125,11 +125,11 @@ while True:
 
         if total > 0:
             elap = (end_time - start_time)
-            print('[INFO] single frame took {:.4f} seconds'.format(elap))
-            print('[INFO] estimated total time to finish: {:.4f}'.format(elap * total))
+            print('Single frame took {:.4f} seconds'.format(elap))
+            print('Estimated total time to finish: {:.4f}'.format(elap * total))
 
     writer.write(frame)
 
-print('[INFO] cleaning up...')
+print('Cleaning up...')
 writer.release()
 vs.release()                                
