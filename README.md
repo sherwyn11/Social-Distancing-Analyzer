@@ -19,7 +19,7 @@
   git clone <this_repo_url>
 ```
 
-2. This download the YOLOv3 weights from this <a href="https://pjreddie.com/media/files/yolov3.weights">link</a> and store it in the yolov3 folder as <b>yolov3.weights</b>
+2. Then download the YOLOv3 weights from this <a href="https://pjreddie.com/media/files/yolov3.weights">link</a> and store it in the yolov3 folder as <b>yolov3.weights</b>
 
 3. Download the required python packages
 ```bash
