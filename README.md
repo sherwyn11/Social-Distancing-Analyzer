@@ -60,6 +60,8 @@ Output video
 [MIT License Link](https://github.com/sherwyn11/Social-Distancing-Analyzer/blob/master/LICENSE)
 
 
+Also, do give my medium article a read! <a href="https://medium.com/@sherwyndsouza1999/social-distancing-analyzer-using-opencv-and-yolo-7572aed7b3bf">Click Here</a>
+
 <b><i>PS: This is my first OpenCV project. Will work on more in the future.</i><b><br></br>
 <b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
 
