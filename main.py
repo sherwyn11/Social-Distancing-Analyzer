@@ -125,7 +125,7 @@ while True:
         if total > 0:
             elap = (end_time - start_time)
             print('Single frame took {:.4f} seconds'.format(elap))
-            print('Estimated total time to finish: {:.4f}'.format(elap * total))
+            print('Estimated total time to finish: {:.4f} seconds'.format(elap * total))
 
     writer.write(frame)
 
